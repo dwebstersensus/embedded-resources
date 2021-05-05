@@ -1,10 +1,6 @@
 # Project Title
 
-Provide an introductory paragraph, describing:
-
-* What your project does
-* Why people should consider using your project
-* Link to project home page
+Provide an introductory paragraph to the project.
 
 ## Table of Contents
 
@@ -24,14 +20,6 @@ Provide an introductory paragraph, describing:
 # About the Project
 
 Here you can provide more details about the project
-* What features does your project provide?
-* Short motivation for the project? (Don't be too long winded)
-* Links to the project site
-
-```
-Show some example code to describe what your project does
-Show some of your APIs
-```
 
 **[Back to top](#table-of-contents)**
 
@@ -47,7 +35,7 @@ Describe the current release and any notes about the current state of the projec
 
 # Getting Started
 
-This section should provide instructions for other developers to
+This section should provide instructions for other developers to get the project setup.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -55,7 +43,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Describe what software and libraries you will need to install in order to build and use this project. Provide details on how to resolve these dependencies.
 
-Remember: git-lfs is a dependency that developers will need to resolve before they can get started with a repo using LFS.
 
 ```
 Examples should be included
@@ -63,10 +50,8 @@ Examples should be included
 
 ## Getting the Source
 
-Include a link to your github reposistory (you have no idea how people will find your code), and also a summary of how to clone.
+Should provide instructions on how to fetch the source for this project.
 
-
-This project is [hosted on GitHub](https://github.com/embeddedartistry/embedded-resources). You can clone this project directly using this command:
 
 ```
 git clone git@github.com:embeddedartistry/embedded-resources.git
@@ -94,7 +79,7 @@ If you have formatting checks, coding style checks, or static analysis tests tha
 
 ## Installation
 
-Instructions for how to install your project's build artifacts
+Instructions for how to install/flash your project's build artifacts
 
 ```
 Examples should be included
