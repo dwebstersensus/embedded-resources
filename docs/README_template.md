@@ -54,7 +54,7 @@ Should provide instructions on how to fetch the source for this project.
 
 
 ```
-git clone git@github.com:embeddedartistry/embedded-resources.git
+git clone git@bitbucket.org:xyleminc/solas-app.git
 ```
 
 ## Building
